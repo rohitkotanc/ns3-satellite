@@ -36,14 +36,17 @@ Select metric: latency, UDP, TCP
 ## Repository Structure
 
 examples/
+
   starlink/
     base_starlink_latency.py
     base_starlink_udp.py
     base_starlink_tcp.py
+
   kuiper/
     base_kuiper_latency.py
     base_kuiper_udp.py
     base_kuiper_tcp.py
+
   telesat/
     base_telesat_latency.py
     base_telesat_udp.py
